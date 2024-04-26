@@ -23,3 +23,7 @@ body{
 .escola-img{
     width: 20%;
 }
+
+    .escola{
+        background-image: linear-gradient(#6d3eee, white);
+    }
